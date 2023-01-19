@@ -1,2 +1,3 @@
 # Loading-Pulse
-Simple HTML &amp; CSS pulse to show whist data is loading.
+
+Just a really simple bit of HTML and CSS to show a pulse, can be used as a way to show that data is loading.
